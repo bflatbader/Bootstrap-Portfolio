@@ -1,5 +1,7 @@
 body {
-    background-image: url(../img/background-background-image-blue-sky-1054218.jpg);
+    /* background-image: url(../img/background-background-image-blue-sky-1054218.jpg); */
+    /* background-image: url(../img/alps-cliff-clouds-167684.jpg); */
+    background-image: url(../img/clouds-conifers-fir-trees-592285.jpg);    
     background-attachment: fixed;
     background-position: center;
     background-repeat: no-repeat;
@@ -22,13 +24,16 @@ body {
 }
 
 .fa-paper-plane {
-    color: salmon;
+    color: #6F732F;
 }
 
 .jumbotron {
-    /* background: rgba(209, 209, 209, 0.3); */
-    background: linear-gradient(to top, rgba(209,209,209,0), rgba(209,209,209,.1));
+    background: linear-gradient(to top, rgba(209,209,209,0), rgba(209,209,209,.2));
  }
+
+.spacer {
+    margin-top: 8%;
+}
 
  #greeting {
      font-size: 24px;
@@ -60,7 +65,7 @@ body {
      padding-bottom: 0px;
      width: 100%;
      background-color: transparent;
-     color: #bbb;
+     color: #eee;
      font-size: 10px;
      line-height: 1px;
      text-align: center;
