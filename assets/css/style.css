@@ -1,6 +1,37 @@
+body {
+    background-image: url(../img/background-background-image-blue-sky-1054218.jpg);
+    background-attachment: fixed;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
 #brand {
     font-family: 'East Sea Dokdo', cursive;
     font-size: 100px;
     line-height: 60px;
+    letter-spacing: -5px;
     color: #313131;
 }
+
+.fa-paper-plane {
+    color: salmon;
+}
+
+.jumbotron {
+    /* background: rgba(209, 209, 209, 0.3); */
+    background: linear-gradient(to top, rgba(209,209,209,0), rgba(209,209,209,.1));
+ }
+
+ #greeting {
+     font-size: 24px;
+     line-height: 1px;
+ }
+
+ .display-4 {
+     font-weight: 400;
+ }
+
+ #socialIcons {
+     font-size: 30px;
+ }
