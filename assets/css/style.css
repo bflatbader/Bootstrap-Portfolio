@@ -1,6 +1,4 @@
 body {
-    /* background-image: url(../img/background-background-image-blue-sky-1054218.jpg); */
-    /* background-image: url(../img/alps-cliff-clouds-167684.jpg); */
     background-image: url(../img/clouds-conifers-fir-trees-592285.jpg);    
     background-attachment: fixed;
     background-position: center;
@@ -24,7 +22,7 @@ body {
 }
 
 .fa-paper-plane {
-    color: #6F732F;
+    color: #AF4300;
 }
 
 .jumbotron {
@@ -41,8 +39,9 @@ body {
  }
 
  .display-4 {
-     font-weight: 400;
-     line-height: 60px;
+    font-family: 'Open Sans Condensed', cursive;
+    font-weight: bold;
+    line-height: 60px;
  }
 
  .lead {
@@ -56,6 +55,10 @@ body {
 
  .socialIcons:hover {
      color: #fff;
+ }
+
+ hr {
+     width: 20%;
  }
 
  .footer {
