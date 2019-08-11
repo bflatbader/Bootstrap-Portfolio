@@ -52,6 +52,21 @@ body {
      width: 20%;
  }
 
+ .contactIcons {
+        padding-left: 15px;
+        color: #313131;
+}
+
+.btn-blue {
+    background-color: #2176AE;
+    color: #eee;
+}
+
+.btn-blue:hover {
+    background-color: #17547C;
+    color: #eee;
+}
+
  .footer {
      position: fixed;
      bottom: 0;

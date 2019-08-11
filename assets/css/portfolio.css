@@ -36,13 +36,3 @@
 img {
     padding: 15px;
 }
-
-.btn-blue {
-    background-color: #2176AE;
-    color: #eee;
-}
-
-.btn-blue:hover {
-    background-color: #17547C;
-    color: #eee;
-}
