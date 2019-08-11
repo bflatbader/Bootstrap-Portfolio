@@ -14,18 +14,6 @@ body {
     border: 1px solid #fff;
 }
 
-#brand {
-    font-family: 'East Sea Dokdo', cursive;
-    font-size: 100px;
-    line-height: 60px;
-    letter-spacing: -5px;
-    color: #313131;
-}
-
-.fa-paper-plane {
-    color: #AF4300;
-}
-
 .jumbotron {
     background: linear-gradient(to top, rgba(209,209,209,0), rgba(209,209,209,.2));
  }

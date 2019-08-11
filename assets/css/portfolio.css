@@ -33,6 +33,10 @@
     color: #ddd;
 }
 
+img {
+    padding: 15px;
+}
+
 .btn-blue {
     background-color: #2176AE;
     color: #eee;
