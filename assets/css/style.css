@@ -47,6 +47,7 @@ body {
 
  .lead {
      line-height: 40px;
+     font-weight: 400;
  }
 
  .socialIcons {

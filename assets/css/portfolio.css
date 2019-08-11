@@ -9,6 +9,10 @@
     border: 1px solid rgba(255, 255, 255, 0.1);
  }
 
+ .fluff {
+     margin-top: 60px;
+ }
+
  .card {
     padding: 10px;
 }
@@ -20,8 +24,13 @@
 }
 
 .portCards {
-    background-color: #ddd;
+    /* background-color: #ddd; */
+    background: none;
     border: none;
+}
+
+.card-text { 
+    color: #ddd;
 }
 
 .btn-blue {
