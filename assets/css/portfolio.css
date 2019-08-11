@@ -1,0 +1,35 @@
+.display-5 {
+    font-family: 'Open Sans Condensed', cursive;
+    font-weight: bold;
+    line-height: 60px;
+ }
+
+ .hrlight {
+    width: 10%;
+    border: 1px solid rgba(255, 255, 255, 0.1);
+ }
+
+ .card {
+    padding: 10px;
+}
+
+.portIcons {
+    font-size: 75px;
+    padding: 15px;
+    color: #464655;
+}
+
+.portCards {
+    background-color: #ddd;
+    border: none;
+}
+
+.btn-blue {
+    background-color: #2176AE;
+    color: #eee;
+}
+
+.btn-blue:hover {
+    background-color: #17547C;
+    color: #eee;
+}
