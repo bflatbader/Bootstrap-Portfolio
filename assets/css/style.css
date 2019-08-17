@@ -80,3 +80,16 @@ body {
      line-height: 1px;
      text-align: right;
  }
+
+ /* Media Queries */
+ @media only screen and (max-width: 640px) {
+
+    #greeting, h1, .lead, .socialIcons {
+        color: #eee;
+    }
+
+    .socialIcons:hover {
+        color: #AF4300;
+    }
+
+ }
