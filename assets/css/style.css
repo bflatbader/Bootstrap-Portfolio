@@ -58,6 +58,7 @@ body {
 }
 
 .btn-blue {
+    margin-top: 5px;
     background-color: #2176AE;
     color: #eee;
 }
