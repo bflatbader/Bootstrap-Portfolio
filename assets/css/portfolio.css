@@ -1,9 +1,3 @@
-.display-5 {
-    font-family: 'Open Sans Condensed', cursive;
-    font-weight: bold;
-    line-height: 60px;
- }
-
  .hrlight {
     width: 10%;
     border: 1px solid rgba(255, 255, 255, 0.1);
@@ -44,4 +38,12 @@ img {
 
 .img-spacer {
     padding-top: 30px;
+}
+
+.port-text {
+    font-family: 'Open Sans Condensed', cursive;
+    color: #ddd;
+    font-size: 18px;
+    font-weight: bold;
+    padding-top: 20px;
 }
